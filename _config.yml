@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title:            Quentin Brissaud
+title:            AIR project
 locale:           en_US
 # url:              http://localhost:4000
 
-name: Quentin Brissaud
-description: Near-surface seismic processes and atmospheric propagation
+name: AIR project
+description: Assessing the feasibility of exploring Venus' interior with balloons
 
 # Jekyll configuration
 
@@ -31,7 +31,7 @@ owner:
   name: Quentin Brissaud
   avatar: quentin.jpg
   bio: "Geophysicist at NORSAR, Oslo."
-  email: quentinbrissaud@gmail.com
+  email: quentin@norsar.no
   disqus-shortname: quentinbrissaud
   twitter: QuentinBrissaud
   facebook: #username

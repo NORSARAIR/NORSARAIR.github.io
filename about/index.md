@@ -5,18 +5,7 @@ tags: [about]
 comments: false
 ---
 
-I am a geophysicist working at [NORSAR](https://www.norsar.no/), in Oslo, Norway. My interests include near-surface seismology, natural and man-made geophysical event analysis using infrasound data, source and subsurface velocity inversions using seismic and infrasound records, and waveform modeling in coupled seismo-acoustic media. 
-
-Curriculum Vitae
-============
-
-<object 
-  data="/images/CV_Quentin_Brissaud.pdf" 
-  width="1000" 
-  height="1000" 
-  type="application/pdf"></object>
-
-<br/>
+AIR is a project funded by the Research Council of Norway to explore Venus with balloons.
 
 About This Site
 =========
