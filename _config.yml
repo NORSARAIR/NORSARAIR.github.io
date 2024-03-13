@@ -29,7 +29,7 @@ kramdown:
 # Site owner
 owner:
   name: AIR project
-  avatar: logo_AIR.jpg
+  avatar: logo_AIR.png
   bio: "Exploring Venus' interior with balloons."
   email: AIR@norsar.no
   disqus-shortname: airproject
