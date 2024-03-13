@@ -28,12 +28,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Quentin Brissaud
-  avatar: quentin.jpg
-  bio: "Geophysicist at NORSAR, Oslo."
-  email: quentin@norsar.no
-  disqus-shortname: quentinbrissaud
-  twitter: QuentinBrissaud
+  name: AIR project
+  avatar: logo_AIR.jpg
+  bio: "Exploring Venus' interior with balloons."
+  email: AIR@norsar.no
+  disqus-shortname: airproject
+  twitter: AIRproject4
   facebook: #username
   google:
     plus: #username
@@ -42,7 +42,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: QuentinBrissaud
+  github: NORSARAIR
   stackoverflow: 
   linkedin: 
   instagram: #username
@@ -52,6 +52,6 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  workflowly: ydgBawDfMYKEb5cA
+  workflowly: 
 
 exclude: ["CNAME", ".htaccess", "lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
