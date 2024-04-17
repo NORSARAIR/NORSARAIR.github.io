@@ -1,5 +1,5 @@
 
-## Publications
+## Published Papers and Preprints
 
 - R Garcia, ..., **P Nasholm**, **C M Solbreg**, **Q Brissaud**, et al. (2024) [Seismic wave detectability on Venus using ground deformation sensors, infrasound sensors on balloons and airglow imagers](https://essopenarchive.org/doi/pdf/10.22541/essoar.171286367.76819789). *Erath Space and Science*, submitted
 - **M Froment**, **Q Brissaud**, **P Nasholm**, **T Kaschwich**, **A Turquet**, (2024) [Probing a planet from the subsurface to the atmosphere with infrasound data](https://drive.google.com/file/d/159I0a8a2JIPvgN_YSXFJThumoV6LnGNw/view?usp=sharing). *Internoise24 proceeding*, accepted
