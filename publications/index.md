@@ -19,7 +19,7 @@ Publications
 Presentations
 =====
 
-- Q Brissaud, SP Näsholm, A Turquet, T Kaschwich, **CM Solberg**. (2023) [The AIR project: Leveraging balloon pressure data for planetary exploration](http://www.epp.ac.cn/activityView.asp?NewsId=857). *AGU23*
+- **Q Brissaud**, **SP Näsholm**, **A Turquet**, **T Kaschwich**, **CM Solberg**. (2023) [The AIR project: Leveraging balloon pressure data for planetary exploration](http://www.epp.ac.cn/activityView.asp?NewsId=857). *AGU23*
 - **Q Brissaud**. (2022) [Listening to earthquakes from the clouds](http://www.epp.ac.cn/activityView.asp?NewsId=857). *Chinese Academy of Science*
 - **Q Brissaud**, Siddharth Krishnamoorthy, Jennifer M Jackson, et al. (2021) [Balloons as geophysical probes](https://geoazur.oca.eu/fr/agenda-geoazur). *Invited presentation at GeoAzur*
 - **Quentin Brissaud**, Siddharth Krishnamoorthy, Jennifer Jackson, et al. (2021) [Detection of small-magnitude Earthquakesusing balloon-borne infrasound sensors](https://search.proquest.com/openview/29dca140816441e75368bfb1a4038493/1?pq-origsite=gscholar&cbl=4882998). *Earth and Space Science Open Archive ESSOAr*
