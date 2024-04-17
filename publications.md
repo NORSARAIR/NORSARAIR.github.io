@@ -1,5 +1,5 @@
-Publications
-=====
+
+## Publications
 
 - R Garcia, ..., **P Nasholm**, **C M Solbreg**, **Q Brissaud**, et al. (2024) [Seismic wave detectability on Venus using ground deformation sensors, infrasound sensors on balloons and airglow imagers](https://essopenarchive.org/doi/pdf/10.22541/essoar.171286367.76819789). *Erath Space and Science*, submitted
 - **M Froment**, **Q Brissaud**, **P Nasholm**, **T Kaschwich**, **A Turquet**, (2024) [Probing a planet from the subsurface to the atmosphere with infrasound data](https://drive.google.com/file/d/159I0a8a2JIPvgN_YSXFJThumoV6LnGNw/view?usp=sharing). *Internoise24 proceeding*, accepted
@@ -9,8 +9,7 @@ Publications
 - S Krishnamoorthy, L Martire, DC Bowman, ..., **Q Brissaud**, et al. (2021) [Progress Towards Balloon-Based Seismology on Venus in 2020–2021](https://www.hou.usra.edu/meetings/vexag2021/eposter/8012.pdf). *LPI Contributions*, (2628):8012
 - **Q Brissaud**, Siddharth Krishnamoorthy, Jennifer M Jackson, et al. (2021) [The first detection of an earthquake from a balloon using its acoustic signature](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL093013). *Geophysical Research Letters*, 12(48):e2021GL093013
 
-Presentations
-=====
+## Presentations
 
 - **Q Brissaud**, **SP Näsholm**, **A Turquet**, **T Kaschwich**, **CM Solberg**. (2023) [The AIR project: Leveraging balloon pressure data for planetary exploration](http://www.epp.ac.cn/activityView.asp?NewsId=857). *AGU23*
 - **Q Brissaud**. (2022) [Listening to earthquakes from the clouds](http://www.epp.ac.cn/activityView.asp?NewsId=857). *Chinese Academy of Science*
