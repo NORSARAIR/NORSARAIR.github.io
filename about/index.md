@@ -1,5 +1,8 @@
 ---
 layout: page
+image:
+  feature: Venera-13-strip.png
+  credit: "Venera 13 landing site panorama, side A (penetrometer side), in original perspective prior to transformation.
 title: "AIR: Airborne Inversion of Rayleigh waves"
 tags: [about]
 comments: false
