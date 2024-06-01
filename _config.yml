@@ -17,6 +17,11 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+  - jekyll-scholar
+
+scholar:
+  style: apa
+  locale: en
 
 kramdown:
   auto_ids: true
