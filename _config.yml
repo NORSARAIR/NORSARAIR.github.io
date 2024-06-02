@@ -22,7 +22,7 @@ gems:
 scholar:
   style: apa
   locale: en
-  source: bibliography.bib
+  source: _bibliography/bibliography.bib
 
 kramdown:
   auto_ids: true
