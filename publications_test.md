@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Publications
-tags: [publications]
-comments: false
 ---
 
-## Papers
+Papers
+=====
 {% bibliography --query @article[isair] %}
 
-## Presentations
+Presentations
+=====
 {% bibliography --query @inproceedings[isair] %}

@@ -27,4 +27,5 @@ comments: false
 | <img src="../images/team/Leo_Martire.jpg" width="100"> | **Leo Martire**<br>Research Scientist at JPL/NASA, USA<br><a href="https://scienceandtechnology.jpl.nasa.gov/leo-martire">https://scienceandtechnology.jpl.nasa.gov/leo-martire</a> |
 | <img src="../images/team/raphael.png" width="100"> | **Raphael Garcia**<br>Research Scientist at ISAE Toulouse, France<br><a href="https://pagespro.isae-supaero.fr/raphael-garcia/">https://pagespro.isae-supaero.fr/raphael-garcia/</a> |
 | <img src="../images/team/iris.png" width="100"> | **Iris Van Zelst**<br>Post-doc at DLR, Germany<br><a href="https://irisvanzelst.github.io/">https://irisvanzelst.github.io/</a> |
-
+| <img src="../images/team/anna.png" width="100"> | **Anna Gülcher**<br>Post-doc at Caltech, USA<br><a href="https://annagulcher.com/">https://annagulcher.com/</a> |
+| <img src="../images/team/Averbuch.png" width="100"> | **Gil Averbuch**<br>Scientist at WHOI, USA<br><a href="https://www.whoi.edu/profile/gil.averbuch/">https://www.whoi.edu/profile/gil.averbuch/</a> |
