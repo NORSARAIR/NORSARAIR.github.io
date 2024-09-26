@@ -39,16 +39,24 @@ jobs:
           ruby-version: '2.7.2'  # Ensure Ruby version is specified
           bundler-cache: false # runs 'bundle install' and caches installed gems automatically
           #cache-version: 0 # Increment this number if you need to re-download cached gems
-      - name: Install Bundler
-        run: gem install bundler -v 2.4.22  # Install Bundler compatible with Ruby 2.7.2
+
+      #- name: Install Bundler
+      #  run: gem install bundler -v 2.4.22  # Install Bundler compatible with Ruby 2.7.2
+      
+      # Ensure that all necessary gems (including Jekyll) are installed
+      - name: Install dependencies
+        run: bundle install
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
+
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
