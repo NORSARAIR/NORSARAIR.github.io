@@ -15,14 +15,14 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-scholar
 
 scholar:
   style: apa
   locale: en
-  source: _bibliography/bibliography.bib
+  source: _bibliography/
 
 kramdown:
   auto_ids: true
