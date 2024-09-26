@@ -5,7 +5,7 @@ tags: [team]
 comments: false
 ---
 
-![Map of members](../images/team/map_members_AIR.jpg)
+![Map of members](../images/team/map_members_AIR.png)
 
 ## Official team members
 
