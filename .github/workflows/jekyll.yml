@@ -55,9 +55,10 @@ jobs:
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
+          GITHUB_PAGES: true
           JEKYLL_ENV: production
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PAGES_REPO_NWO: NORSARAIR/NORSARAIR.github.io
+          #PAGES_REPO_NWO: NORSARAIR/NORSARAIR.github.io
 
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
