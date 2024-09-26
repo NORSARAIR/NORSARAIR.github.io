@@ -42,7 +42,7 @@ jobs:
 
       #- name: Install Bundler
       #  run: gem install bundler -v 2.4.22  # Install Bundler compatible with Ruby 2.7.2
-      
+
       # Ensure that all necessary gems (including Jekyll) are installed
       - name: Install dependencies
         run: bundle install
@@ -56,6 +56,8 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAGES_REPO_NWO: NORSARAIR.github.io/NORSARAIR.github.io 
 
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
