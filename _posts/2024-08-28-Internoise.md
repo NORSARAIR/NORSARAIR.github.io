@@ -15,9 +15,9 @@ Our team was **invited to present our project AIR and our recent inversion resul
 
 **In this presentation, we did a thorough review of recent works on infrasound-based planetary science**. Our slides can be found below. Together with our presentation, we wrote a conference proceeding describing recent advances in more details {% cite froment2024probing %}.
 
-<iframe src="/presentations/AIR_ASA_FINAL.pdf" width="100%" height="600px">
+<iframe src="/presentations/Internoise_Froment.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it: 
-    <a href="/presentations/AIR_ASA_FINAL.pdf">Download PDF</a>.
+    <a href="/presentations/Internoise_Froment.pdf">Download PDF</a>.
 </iframe>
 
 {% bibliography --cited %}

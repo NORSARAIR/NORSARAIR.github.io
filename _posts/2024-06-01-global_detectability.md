@@ -13,7 +13,7 @@ The AIR project ultimate goal is to build an efficient framework to map seismic 
 
 <br>
 
-Recent balloon experiments on Earth seem to confirm that large or close-by events can, indeed, be detected {% cite nasholm2024exploring %}. Yet, the amplitude of the signals vary widely depending on the event magnitude and distance to the epicenter. Future balloon mission will have to account for this variability in Signal-to-Noise Ratio (SNR) to ensure the detection of seismic infrasound signals.
+Recent balloon experiments on Earth seem to confirm that large or close-by events can, indeed, be detected {% cite brissaud2021first garcia2022infrasound %}. Yet, the amplitude of the signals vary widely depending on the event magnitude and distance to the epicenter. Future balloon mission will have to account for this variability in Signal-to-Noise Ratio (SNR) to ensure the detection of seismic infrasound signals.
 
 <br>
 
@@ -24,4 +24,4 @@ Building on a seismic hazard probabilistic framework, also known as PHSA, **we d
     <a href="/presentations/AIR_workshop_slides.pdf">Download PDF</a>.
 </iframe>
 
-{% bibliography %}
+{% bibliography --cited %}

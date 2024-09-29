@@ -13,6 +13,11 @@ poorly constrained.
 
 > Could we deploy seismometers in the atmosphere to sense seismic waves and sense Venus interior? The short answer is yes! 
 
+<figure style="float: left; margin-right: 15px; width: 30%">
+  <img src="/images/Russian_Vega_balloon_mission.jpg" alt="Alt text" style="width: 100%;">
+  <figcaption style="width: 100%;">The balloon from the Russian Vega mission at the Steven F. Udvar-Hazy center.</figcaption>
+</figure>
+
 The same way a drum emits sound when it vibrates, **Earth's surface generates inaudible acoustic waves**, called infrasound, **when an Earthquake hits**. Exciting new developments have shown that **the sound of seismic events can be recorded at high altitudes from a balloon** and can inform us about the subusurface. However, very few seismic events have been detected from a balloon and we still ignore how much we can learn from these sound waves. **AIR** will address key theoretical and practical issues by taking advantage of balloon data collected by the Jet propulsion Laboratory and the Swedish Institute of Space Physics during large-scale balloon campaigns, and by relying on stateof-the-art simulation tools. The main objective is to build a model to automatically retrieve seismic source and subsurface structures from sound waves and explain how accurate this new technique can be for future planetary missions. 
 > **AIR** will empower balloons to explore distant worlds and provide unique insights on the deep underground in remote regions where current technology is lacking.
 
@@ -24,4 +29,17 @@ The same way a drum emits sound when it vibrates, **Earth's surface generates in
 **AIR** is expected to push the frontier of the use of balloon technology for the detection and analysis of natural and man-made events on our own planet, Earth, as well as on other planets. 
 
 ### WP1: Data Analysis
-Few seismic events from balloons have been recorded so far, but recently collected data from large balloon campaigns, carried out by the Jet Propulsion Laboratory in the USA and the Swedish Institute of Space Physics, will be made available to the AIR project. Using state-of-the-art simulation tools, AIR will address the most important theoretical and practical challenges for the analysis of such data. 
+Few seismic events from balloons have been recorded so far, but recently collected data from large balloon campaigns {% cite brissaud2021first garcia2022infrasound %}, carried out by the Jet Propulsion Laboratory in the USA and the Swedish Institute of Space Physics, will be made available to the AIR project. Using state-of-the-art simulation tools, AIR will reprocess data systematically to unveil new arrivals and extract accurately dispersion information from Rayleigh wave arrivals. We will also investigate the possibility of automatically detecting seismic arrivals in balloon data with machine learning tools.
+
+<figure>
+  <img src="/images/Geography_TTL3_17_Flores_new.png" alt="Detection of Rayleigh waves from a stratospheric balloon">
+  <figcaption>Figure: Detection of Rayleigh waves from a stratospheric balloon {% cite garcia2022infrasound %}. Left, balloon-borne pressure recordings and Right, closest seismic arrivals.</figcaption>
+</figure>
+
+### WP2: Sensitivity Analysis
+Understanding the variations of balloon-borne obserbations with seismic and acoustic path effects is key to understand both (1) how much information about the subsurface is contained in the acoustic waveforms once waves have gone through complex velocity models, and (2) how much should be included in the inversion framework. During WP2, we will produce a large-scale synthetic dataset and analyze seismic-to-acoustic waveform correlations with analytical and machine learning tools.
+
+### WP3: Inversion framework
+Once arrival are detected and our understanding of source-to-balloon propagation effects are understand, we need to build a framework to connect acoustic waveforms to source properties and subsurface velocities. We will inform our inversion model with results from our sensitivity analysis in WP2 to understand the expected uncertainties associated with propagation effects such as topography and lateral velocity variations. We will build prior uncertainty models based on physics-based subsurface models constructed from geodynamical models or gravity inversions {% cite dumoulin2017tidal %}. Multiple inversion approaches will be tested including Monte-Carlo Markov Chain (MCMC) optimization and validated against synthetic and observed data.
+
+{% bibliography --cited %}
