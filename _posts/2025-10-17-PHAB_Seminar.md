@@ -9,7 +9,7 @@ tags: [infrasound, venus, planetary exploration, seminar]
 comments: false
 ---
 
-Our team was invited to present new exciting results at the Centre for Planetary Habitability (PHAB, https://www.mn.uio.no/phab/english/) regarding the use of seismo-acoustic waves for planetary exploration and titled: "**Revealing the structure of Venus’ interiors using planetary rumbles**". 
+Our team was invited to present new exciting results at the Centre for Planetary Habitability (PHAB, <https://www.mn.uio.no/phab/english/>) regarding the use of seismo-acoustic waves for planetary exploration and titled: "**Revealing the structure of Venus’ interiors using planetary rumbles**". 
 
 <br>
 
@@ -18,8 +18,8 @@ Seismology has been remarkably successful in probing the interior structure of t
 <br>
 
 Event details below:
-- Time and location: Oct. 17, 2025 3:00 PM – 4:00 PM CET, ZEB Aud. 3 (https://link.mazemap.com/btiWUp2X)
-- Link to event page: https://www.mn.uio.no/phab/english/news-and-events/events/seminars/2025_autumn/MarouchkaFromont.html
-- Zoom link: https://uio.zoom.us/j/4748927923?omn=68327784106
+- Time and location: Oct. 17, 2025 3:00 PM – 4:00 PM CET, ZEB Aud. 3 (<https://link.mazemap.com/btiWUp2X>)
+- Link to event page: <https://www.mn.uio.no/phab/english/news-and-events/events/seminars/2025_autumn/MarouchkaFromont.html>
+- Zoom link: <https://uio.zoom.us/j/4748927923?omn=68327784106>
 
 {% bibliography --cited %}
