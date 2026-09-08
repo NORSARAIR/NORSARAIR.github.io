@@ -36,16 +36,16 @@ jobs:
         #uses: ruby/setup-ruby@0a29871fe2b0200a17a4497bae54fe5df0d973aa # v1.115.3
         uses: ruby/setup-ruby@v1 # v1.115.3
         with:
-          ruby-version: '2.7.2'  # Ensure Ruby version is specified
-          bundler-cache: false # runs 'bundle install' and caches installed gems automatically
+          ruby-version: '3.1' #'2.7.2' removed 08/09/2026 # Ensure Ruby version is specified
+          bundler-cache: true #false removed 08/09/2026 # runs 'bundle install' and caches installed gems automatically
           #cache-version: 0 # Increment this number if you need to re-download cached gems
 
       #- name: Install Bundler
       #  run: gem install bundler -v 2.4.22  # Install Bundler compatible with Ruby 2.7.2
 
       # Ensure that all necessary gems (including Jekyll) are installed
-      - name: Install dependencies
-        run: bundle install
+      #- name: Install dependencies # removed 08/09/2026
+      #  run: bundle install # removed 08/09/2026
 
       - name: Setup Pages
         id: pages
