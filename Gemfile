@@ -7,6 +7,7 @@ gem "jekyll-scholar", "~> 5.16.0" # changed 08/09/2026 gem "jekyll-scholar", gro
 gem "github-pages", group: :jekyll_plugins
 gem "bibtex-ruby", "~> 4.4.7"
 gem "forwardable", "1.3.3"
+gem "uri", "0.10.0.2"
 gem "faraday-retry"
 gem 'webrick', '~> 1.7'
 gem "nokogiri", "< 1.16.0"  # Specify a version compatible with Ruby 2.7.x
