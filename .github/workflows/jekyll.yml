@@ -40,6 +40,9 @@ jobs:
           bundler-cache: true #false removed 08/09/2026 # runs 'bundle install' and caches installed gems automatically
           #cache-version: 0 # Increment this number if you need to re-download cached gems
 
+      - name: Update bibliography dependencies
+        run: bundle update jekyll-scholar bibtex-ruby
+
       #- name: Install Bundler
       #  run: gem install bundler -v 2.4.22  # Install Bundler compatible with Ruby 2.7.2
 
